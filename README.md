@@ -44,3 +44,9 @@ Satınalma Uzmanı, IK Personeli, Hukuk Müşaviri, Patent Uzmanı, TRT Arşivci
 - UI: Streamlit · API: FastAPI
 - RAG: LangChain (`gemini-1.5-flash` / `models/embedding-001`)
 - Vektör DB: ChromaDB · Anahtar kelime: Rank-BM25 · Birleştirme: RRF
+
+
+
+
+<img width="982" height="640" alt="image" src="https://github.com/user-attachments/assets/c2cf9b60-2827-4ee0-ac43-3010c7cc4c26" />
+
