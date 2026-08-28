@@ -1,0 +1,32 @@
+DASBASE HOLDING A.Ş.
+İNSAN KAYNAKLARI MÜDÜRLÜĞÜ
+2026 HİBRİT ÇALIŞMA VE İZİN SİRKÜLERİ
+
+Sirküler No: IK-SIR-2026-008
+Belge Türü: Sirküler
+Birim: İnsan Kaynakları
+SDP Kodu: 050.01
+Güvenlik Seviyesi: Kurum İçi
+Yürürlük Tarihi: 01.07.2026
+
+1. HİBRİT ÇALIŞMA KURALI
+Kadrolu ofis çalışanları haftada üç gün kampüste, iki gün uzaktan (home-office) çalışır.
+Pazartesi ve Cuma günleri uzaktan çalışma günüdür. Salı, Çarşamba ve Perşembe günleri ofis günüdür.
+Zorunlu çekirdek mesai (core-time) 10:00 - 16:00 arasındadır. Bu dilimde çalışan çevrimiçi veya ofiste erişilebilir olmalıdır.
+
+2. İZİN HAKLARI
+Yıllık ücretli izin kıdeme göre uygulanır:
+- 1-5 yıl kıdem: 14 iş günü
+- 5-15 yıl kıdem: 20 iş günü
+- 15 yıl ve üzeri: 26 iş günü
+Hibrit model, yıllık izin hakkını azaltmaz. Uzaktan çalışma günü izin günü yerine geçmez.
+Mazeret izni günde en fazla 4 saat, yılda 16 saati aşamaz. İzin talepleri IK portalından en az 3 iş günü önce girilir.
+
+3. MESAFE KURALLARI
+Home-office yapılacak adres, merkez kampüse karayolu ile en fazla 80 kilometre mesafede olmalıdır.
+80 km üzerindeki ikamet için hibrit model müdür onayı ve İnsan Kaynakları kaydı olmadan kullanılamaz.
+Ofis günlerinde kampüse geliş, mesafe kuralından bağımsız olarak zorunludur. Şehir dışı görevlendirme bu sirkülerin kapsamı dışındadır.
+
+4. YÜRÜRLÜK
+İşbu sirküler 14578398 sayılı hibrit kararını uygulama detayıyla tamamlar. SDP 050.01 klasöründe saklanır.
+Hazırlayan: İnsan Kaynakları Müdürlüğü / DASBase arşiv kaydı IK-Sirkuler-2026

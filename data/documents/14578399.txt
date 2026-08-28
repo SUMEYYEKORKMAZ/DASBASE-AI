@@ -1,0 +1,24 @@
+DASBASE HOLDING A.Ş.
+AI VEKTÖR LİSANS SÖZLEŞMESİ
+
+Sözleşme No: LIC-AI-2026-012
+Belge Türü: Sözleşme
+Birim: Hukuk
+SDP Kodu: 600.02
+Güvenlik Seviyesi: Çok Gizli
+İmza Tarihi: 22.01.2026
+
+ÇOK GİZLİ
+Bu lisans anlaşması yalnızca Hukuk Müşaviri ve Genel Müdür erişimine açıktır. Çoğaltılması yasaktır.
+
+MADDE 1 - KONU
+İşbu sözleşme, DASBase Arşiv AI katmanında kullanılacak vektör veritabanı ve gömme (embedding) yazılımının kurumsal lisansını düzenler. Ürün adı VectorCore Enterprise, lisans tipi yıllık aboneliktir.
+
+MADDE 2 - LİSANS BEDELİ
+Lisans bedeli yıllık 250.000 ABD Doları (USD 250,000) tutarındadır. Bedel her yılın ocak ayında peşin ödenir. KDV ve stopaj yükümlülüğü ayrıca tahakkuk eder.
+
+MADDE 3 - İHLAL VE CEZA
+Lisans kapsamı dışında kopyalama, alt lisans, kaynak kod çıkarma veya üçüncü kişiye model ağırlığı devri ihlal sayılır. İhlal halinde 1.000.000 ABD Doları (USD 1,000,000) cezai şart uygulanır. Cezai şart, ayrıca tazminat hakkını ortadan kaldırmaz.
+
+MADDE 4 - SAKLAMA
+Sözleşme SDP 600.02 klasöründe "Cok Gizli" güvenlik seviyesi ile DASBase kaydı 14578399 numarasına işlenmiştir. Satınalma ve IK ekipleri bu belgeyi göremez.

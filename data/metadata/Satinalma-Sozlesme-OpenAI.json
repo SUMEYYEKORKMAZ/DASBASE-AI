@@ -1,0 +1,10 @@
+{
+  "documentId": "Satinalma-Sozlesme-OpenAI",
+  "documentType": "Sozlesme",
+  "department": "Satinalma",
+  "securityLevel": "Kurum Ici",
+  "sdpCode": "805.02",
+  "fileNo": "SAT-AI-2026-021",
+  "allowedRoles": ["Satinalma_Uzmani", "Hukuk_Musaviri", "Genel_Mudur"],
+  "page": 1
+}

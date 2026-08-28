@@ -1,0 +1,24 @@
+DASBASE HOLDING A.Ş.
+KURUMSAL BİLGİ GÜVENLİĞİ POLİTİKASI
+
+Politika No: BG-POL-2026-003
+Belge Türü: Politika
+Birim: Bilgi Güvenliği
+SDP Kodu: 663.01
+Güvenlik Seviyesi: Genel
+Yürürlük Tarihi: 15.02.2026
+
+1. AMAÇ
+Bu politika, DASBase Holding A.Ş. bilgi varlıklarının gizlilik, bütünlük ve erişilebilirliğini korumayı amaçlar. Metin tüm çalışanlara açıktır.
+
+2. PAROLA KURALLARI
+Sistem şifreleri en az 12 karakter olmalıdır. Parola; büyük harf, küçük harf, rakam ve özel karakter içermelidir. Aynı parola birden fazla sistemde kullanılamaz. Parolalar 90 günde bir yenilenir.
+
+3. DIŞ LLM VE YAPAY ZEKA KULLANIMI
+Kurum dışındaki büyük dil modellerine (dış LLM) veri gönderilmeden önce metin PII redaction katmanından geçirilmelidir. T.C. kimlik numarası, telefon ve şahıs adları maskelenmeden dış modele iletilemez. DASBase Arşiv AI asistanı bu kurala tabidir.
+
+4. KVKK
+6698 sayılı KVKK maddeleri uygulanır. Kişisel veriler amaçla sınırlı, hukuka uygun ve silme/yok etme yükümlülüğüne bağlı işlenir. Veri ihlali şüphesi 24 saat içinde Bilgi Güvenliği birimine bildirilir.
+
+5. YETKİ
+Bu genel politika Satınalma Uzmanı, IK Personeli, Hukuk Müşaviri ve Genel Müdür rollerinin tamamına açıktır. SDP 663.01, güvenlik seviyesi "Genel". DASBase arşiv kaydı 14578397.

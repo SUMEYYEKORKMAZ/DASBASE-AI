@@ -1,0 +1,10 @@
+{
+  "documentId": "Disiplin-Yonetmeligi",
+  "documentType": "Yonetmelik",
+  "department": "Insan Kaynaklari",
+  "securityLevel": "Kurum Ici",
+  "sdpCode": "050.02",
+  "fileNo": "IK-DIS-2026-002",
+  "allowedRoles": ["IK_Personeli", "Genel_Mudur"],
+  "page": 1
+}

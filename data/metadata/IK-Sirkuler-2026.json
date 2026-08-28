@@ -1,0 +1,10 @@
+{
+  "documentId": "IK-Sirkuler-2026",
+  "documentType": "Sirkuler",
+  "department": "Insan Kaynaklari",
+  "securityLevel": "Kurum Ici",
+  "sdpCode": "050.01",
+  "fileNo": "IK-SIR-2026-008",
+  "allowedRoles": ["IK_Personeli", "Genel_Mudur"],
+  "page": 1
+}

@@ -1,0 +1,10 @@
+{
+  "documentId": "TRT-Arsiv-Kaseti",
+  "documentType": "Arsiv Fisi",
+  "department": "Yayin Arsiv Dairesi",
+  "securityLevel": "Genel",
+  "sdpCode": "700.05",
+  "fileNo": "K-2023/8845-HD",
+  "allowedRoles": ["TRT_Arsivci", "Editor", "Genel_Mudur"],
+  "page": 1
+}

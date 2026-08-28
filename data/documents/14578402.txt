@@ -1,0 +1,11 @@
+TÜRK PATENT VE MARKA KURUMU
+VERİ MERKEZİ DONANIM İHALESİ HİZMET SÖZLEŞMESİ
+Belge No: 2024/9874
+SDP Kodu: 805.02
+Tarih: 15.01.2024
+
+Madde 12 - Teslimat ve Gecikme Cezası:
+Yüklenici firma, ihale konusu sunucu ve veri depolama donanımlarını sözleşme imza tarihinden itibaren 30 iş günü içerisinde teslim etmekle yükümlüdür. Donanımların zamanında teslim edilmemesi halinde, geçen her takvim günü için yükleniciye sözleşme toplam bedelinin %0,05 (on binde beş) oranında gecikme cezası kesilecektir. Gecikme süresi 20 iş gününü aşarsa Kurum, sözleşmeyi tek taraflı feshetme hakkına sahiptir.
+
+Madde 15 - Güvenlik ve İletişim:
+Yüklenici proje sorumlusu Ahmet Yılmaz (TC: 12345678901, Telefon: 0532 999 8877) tüm güvenlik adımlarından bizzat sorumludur.

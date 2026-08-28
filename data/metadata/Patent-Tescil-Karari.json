@@ -1,0 +1,10 @@
+{
+  "documentId": "Patent-Tescil-Karari",
+  "documentType": "Tescil Karari",
+  "department": "Markalar Dairesi",
+  "securityLevel": "Genel",
+  "sdpCode": "805.02",
+  "fileNo": "2024/012987",
+  "allowedRoles": ["Patent_Uzmani", "Hukuk_Musaviri", "Genel_Mudur"],
+  "page": 1
+}

@@ -1,0 +1,31 @@
+DASBASE HOLDING A.Ş.
+SATINALMA MÜDÜRLÜĞÜ
+OPENAI API KURUMSAL LİSANS SÖZLEŞMESİ
+
+Sözleşme No: SAT-AI-2026-021
+Belge Türü: Sözleşme
+Birim: Satınalma
+SDP Kodu: 805.02
+Güvenlik Seviyesi: Kurum İçi
+İmza Tarihi: 18.07.2026
+
+MADDE 1 - KONU
+İşbu sözleşme, DASBase Holding A.Ş. ile OpenAI OpCo LLC arasında akdedilen kurumsal API lisansını ve kullanım kotasını düzenler. Satınalma dosya kodu SAT-AI-2026-021, SDP 805.02'dir.
+
+MADDE 2 - OPENAI API LİSANS BEDELİ
+OpenAI API lisans bedeli yıllık 250.000 ABD Doları (USD 250.000 / $250.000) tutarındadır.
+Bedel KDV hariç olup fatura tarihinde yürürlükteki vergi mevzuatı ayrıca uygulanır.
+
+MADDE 3 - İKİ TAKSİT ÖDEME PLANI
+Ödeme iki eşit taksitte yapılır:
+- 1. taksit: Sözleşme imzasını izleyen 15 iş günü içinde 125.000 USD
+- 2. taksit: İmza tarihinden 6 ay sonra 125.000 USD
+Taksit gecikmesinde aylık yüzde 1 temerrüt faizi işletilir. Avans teminatı istenmez.
+
+MADDE 4 - KAPSAM VE KULLANIM
+Lisans, DASBase Arşiv AI asistanı ve iç geliştirme ortamındaki API çağrılarını kapsar. Alt lisans ve üçüncü kişiye kota devri yasaktır.
+Satınalma uzmanı fatura ve teslim tutanaklarını bu dosyada arşivler.
+
+MADDE 5 - YETKİ
+Belge Satınalma Uzmanı, Hukuk Müşaviri ve Genel Müdür rollerine açıktır. Çok gizli Ar-Ge münhasır lisans dosyasından (ARGE-2026/007) ayrı bir satınalma kaydıdır.
+DASBase arşiv kaydı: Satinalma-Sozlesme-OpenAI

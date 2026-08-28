@@ -1,0 +1,14 @@
+{
+  "documentId": "14578399",
+  "documentType": "Sozlesme",
+  "department": "Hukuk",
+  "securityLevel": "Cok Gizli",
+  "sdp": "600.02",
+  "allowedRoles": ["Hukuk_Musaviri", "Genel_Mudur"],
+  "pages": [
+    {
+      "page": 1,
+      "text": "DASBASE HOLDING A.Ş.\nAI VEKTÖR LİSANS SÖZLEŞMESİ\n\nSözleşme No: LIC-AI-2026-012\nBelge Türü: Sözleşme\nBirim: Hukuk\nSDP Kodu: 600.02\nGüvenlik Seviyesi: Çok Gizli\nİmza Tarihi: 22.01.2026\n\nÇOK GİZLİ\nBu lisans anlaşması yalnızca Hukuk Müşaviri ve Genel Müdür erişimine açıktır. Çoğaltılması yasaktır.\n\nMADDE 1 - KONU\nİşbu sözleşme, DASBase Arşiv AI katmanında kullanılacak vektör veritabanı ve gömme (embedding) yazılımının kurumsal lisansını düzenler. Ürün adı VectorCore Enterprise, lisans tipi yıllık aboneliktir.\n\nMADDE 2 - LİSANS BEDELİ\nLisans bedeli yıllık 250.000 ABD Doları (USD 250,000) tutarındadır. Bedel her yılın ocak ayında peşin ödenir. KDV ve stopaj yükümlülüğü ayrıca tahakkuk eder.\n\nMADDE 3 - İHLAL VE CEZA\nLisans kapsamı dışında kopyalama, alt lisans, kaynak kod çıkarma veya üçüncü kişiye model ağırlığı devri ihlal sayılır. İhlal halinde 1.000.000 ABD Doları (USD 1,000,000) cezai şart uygulanır. Cezai şart, ayrıca tazminat hakkını ortadan kaldırmaz.\n\nMADDE 4 - SAKLAMA\nSözleşme SDP 600.02 klasöründe \"Cok Gizli\" güvenlik seviyesi ile DASBase kaydı 14578399 numarasına işlenmiştir. Satınalma ve IK ekipleri bu belgeyi göremez."
+    }
+  ]
+}

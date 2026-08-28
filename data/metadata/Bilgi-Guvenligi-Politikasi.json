@@ -1,0 +1,10 @@
+{
+  "documentId": "Bilgi-Guvenligi-Politikasi",
+  "documentType": "Politika",
+  "department": "Bilgi Guvenligi",
+  "securityLevel": "Genel",
+  "sdpCode": "663.01",
+  "fileNo": "BG-POL-2026-011",
+  "allowedRoles": ["Satinalma_Uzmani", "IK_Personeli", "Hukuk_Musaviri", "Genel_Mudur"],
+  "page": 1
+}

@@ -1,0 +1,14 @@
+{
+  "documentId": "14578395",
+  "documentType": "Sozlesme",
+  "department": "Satinalma",
+  "securityLevel": "Kurum Ici",
+  "sdp": "805.02",
+  "allowedRoles": ["Satinalma_Uzmani", "Hukuk_Musaviri", "Genel_Mudur"],
+  "pages": [
+    {
+      "page": 1,
+      "text": "DASBASE HOLDING A.Ş.\nDONANIM İHALESİ HİZMET SÖZLEŞMESİ\n\nSözleşme No: IHL-2026-044\nBelge Türü: Sözleşme\nBirim: Satınalma\nSDP Kodu: 805.02\nGüvenlik Seviyesi: Kurum İçi\nDüzenleme Tarihi: 03.04.2026\n\nMADDE 1 - KONU\nİşbu sözleşme, DASBase Holding A.Ş. veri merkezi yenileme projesi kapsamında sunucu, depolama ve ağ donanımı tedariki ile kurulum hizmetini kapsar. İhale kayıt numarası IHL-2026-044, DASBase arşiv kaydı 14578395'tir.\n\nMADDE 2 - TESLİMAT SÜRESİ\nYüklenici, sipariş onay tarihinden itibaren 30 iş günü içinde tüm donanımı Ümraniye veri merkezine teslim etmek ve kurulumunu tamamlamakla yükümlüdür. Kısmi teslimat, Satınalma biriminin yazılı onayı olmadan kabul edilmez.\n\nMADDE 3 - GECİKME CEZASI\nTeslimat süresinin aşılması halinde gecikme cezası günlük yüzde 0,05 (%0,05) olarak uygulanır. Ceza, geciken kalemin sözleşme bedeli üzerinden hesaplanır. Toplam ceza, ilgili kalem bedelinin yüzde 10'unu aşamaz.\n\nMADDE 4 - PROJE SORUMLUSU VE İLETİŞİM\nİşveren tarafında proje sorumlusu Ahmet Yılmaz'dır. Ahmet Yılmaz'ın T.C. Kimlik Numarası 12345678901, cep telefonu 0532 999 8877 ve kurumsal e-posta adresi ahmet.yilmaz@dasbase.local olarak kayıtlıdır. Teslimat tutanakları bu kişiye tebliğ edilir.\n\nMADDE 5 - YETKİ VE SAKLAMA\nBu sözleşme Satınalma Uzmanı, Hukuk Müşaviri ve Genel Müdür rollerine açıktır. SDP 805.02 klasöründe, \"Kurum İçi\" güvenlik seviyesi ile saklanır."
+    }
+  ]
+}

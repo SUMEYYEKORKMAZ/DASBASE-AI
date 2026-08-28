@@ -1,0 +1,10 @@
+{
+  "documentId": "Mali-Isler-Temettu",
+  "documentType": "Karar",
+  "department": "Mali Isler",
+  "securityLevel": "Gizli",
+  "sdpCode": "100.02",
+  "fileNo": "MALI-YK-2026-004",
+  "allowedRoles": ["Genel_Mudur", "Yonetici"],
+  "page": 1
+}

@@ -1,0 +1,49 @@
+DASBASE HOLDING A.Ş.
+YÖNETİM KURULU KARARI
+
+Karar No: YK-2026-007
+Belge Türü: Karar
+Birim: Üst Yönetim
+Güvenlik Seviyesi: Gizli
+Karar Tarihi: 05.02.2026
+Toplantı Yeri: Ümraniye Merkez Kampüs, Yönetim Kurulu Salonu
+
+GİZLİLİK UYARISI
+Bu belge yalnızca Yönetici rolüne açık olup Satınalma ve İnsan Kaynakları operasyon ekiplerinin erişimine kapalıdır. Belgenin basılı kopyası kilitli arşiv dolabında, dijital kopyası DASBase sisteminde "Gizli" güvenlik seviyesi ile saklanır.
+
+1. TOPLANTI VE KATILIM
+2026 yılı operasyonel bütçesi, dijital arşiv yatırımı ve üst yönetim görev dağılımı gündemiyle toplanılmıştır. Toplantıya Genel Müdür Sn. Ali Can Öztürk, Mali İşler Direktörü Sn. Pınar Koç ve Yönetim Kurulu Üyesi Sn. Hakan Erdem katılmıştır.
+
+Ali Can Öztürk'ün T.C. Kimlik Numarası 17890564321, kurumsal cep telefonu 0532 900 11 00'dır. Pınar Koç'un T.C. Kimlik Numarası 16789012345, telefonu 0533 700 22 33'tür. Hakan Erdem'in T.C. Kimlik Numarası 15678901234 olarak tutanağa işlenmiştir.
+
+2. 2026 OPERASYONEL BÜTÇE KARARI
+Yönetim Kurulu, 2026 yılı konsolide operasyonel bütçesini 48.500.000,00 TL olarak onaylamıştır. Bütçe kalemlerinin ana dağılımı aşağıdaki gibidir:
+- Personel ve yan haklar: 21.400.000 TL
+- Satınalma ve operasyonel giderler: 9.750.000 TL
+- Bilgi teknolojileri ve siber güvenlik: 6.200.000 TL
+- Dijital arşiv ve DASBase modernizasyonu: 4.800.000 TL
+- Eğitim, danışmanlık ve yasal uyum: 2.150.000 TL
+- İhtiyat ve risk karşılığı: 4.200.000 TL
+
+Satınalma bütçesinin yüzde 18'i ofis altyapısı ve hizmet alımlarına, yüzde 22'si yazılım ve bakım sözleşmelerine ayrılmıştır. Personel bütçesi içinde yeni IK uzmanı kadrosu için brüt 744.000 TL yıllık karşılık ayrıldığı not edilmiştir. Bu tutar operasyon ekipleriyle paylaşılmaz; yalnızca onaylı yönetim raporlarında görünür.
+
+3. DİJİTAL ARŞİV VE RAG DÖNÜŞÜM YATIRIMI
+Kurul, DASBase arşiv sistemine yapay zeka destekli arama katmanı eklenmesini kararlaştırmıştır. Proje kodu DAS-AI-2026'dır. Kapsam; yetki kontrollü erişim, melez arama, KVKK maskeleme ve kaynak belge izlenebilirliğidir. Yatırım tavanı 4.800.000 TL'dir. İlk faz 30.04.2026 tarihinde canlıya alınacaktır.
+
+Kurul, arşiv asistanının cevap üretirken yalnızca kullanıcının rolüne açık parçaları getirmesini zorunlu kılmıştır. IK personeli satınalma sözleşmelerini, satınalma uzmanı ise özlük ve ücret kararlarını göremez. Genel Müdür ve Yönetici rolü tüm güvenlik seviyelerine erişir.
+
+4. ÜST YÖNETİM GÖREV DAĞILIMI
+Dijital arşiv programının sponsoru Genel Müdür Ali Can Öztürk'tür. Bütçe kontrolü Pınar Koç'a, bilgi güvenliği gözetimi ise Hakan Erdem'e verilmiştir. Program yöneticisi olarak Bilgi Teknolojileri Müdürü Sn. Cem Aydın görevlendirilmiştir. Cem Aydın'ın telefon numarası 0536 321 45 67, T.C. Kimlik Numarası 19876543210'dur.
+
+Aylık ilerleme raporu her ayın ilk salı günü Yönetim Kurulu'na sunulacaktır. Sapma yüzde 10'u aşarsa ek onay alınmadan harcama yapılamaz.
+
+5. TEMETTÜ VE İÇ DUYURU KISITI
+2025 yılı net kârından 2026/2 çeyreğinde temettü dağıtımı değerlendirmesi yapılacaktır. Bu husus basın bülteni yayımlanmadan çalışanlarla paylaşılmaz. İç duyurularda yalnızca "dijital arşiv modernizasyonu devam etmektedir" ifadesi kullanılır. Bütçe rakamları, kişi ücretleri ve temettü niyeti bu kararın gizlilik damgası altındadır.
+
+6. YÜRÜRLÜK
+Karar oybirliği ile alınmıştır. Karar özeti DASBase arşivine YK-2026-007 numarası ile kaydedilir. İmza sirkülerindeki yetkililer dışında belge çoğaltılamaz.
+
+Genel Müdür: Ali Can Öztürk, 0532 900 11 00
+Mali İşler Direktörü: Pınar Koç
+Yönetim Kurulu Üyesi: Hakan Erdem
+Tutanak Tarihi: 05.02.2026

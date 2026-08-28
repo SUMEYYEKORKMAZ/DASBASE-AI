@@ -1,0 +1,25 @@
+DASBASE HOLDING A.Ş.
+BİLGİ GÜVENLİĞİ MÜDÜRLÜĞÜ
+PAROLA VE ERİŞİM POLİTİKASI
+
+Politika No: BG-POL-2026-011
+Belge Türü: Politika
+Birim: Bilgi Güvenliği
+SDP Kodu: 663.01
+Güvenlik Seviyesi: Genel
+Yürürlük Tarihi: 01.03.2026
+
+1. PAROLA UZUNLUĞU
+Sistem şifresi en az 12 karakter olmalıdır. 12 karakterin altındaki parolalar dizin ve VPN hesaplarında reddedilir.
+
+2. KARMAŞIKLIK
+Parola; en az bir büyük harf, bir küçük harf, bir rakam ve bir özel karakter içermelidir.
+Aynı parola birden fazla sistemde kullanılamaz. Varsayılan üretici şifreleri ilk oturumda değiştirilir.
+
+3. YENİLEME VE KİLİTLEME
+Parolalar 90 günde bir yenilenir. Üst üste 5 hatalı denemede hesap 30 dakika kilitlenir.
+Paylaşımlı servis hesaplarında 12 karakter kuralı aynen geçerlidir.
+
+4. SDP VE SAKLAMA
+Bu metin SDP 663.01 bilgi güvenliği kodu altında yayımlanır. Tüm çalışanlara açıktır.
+DASBase arşiv kaydı: Bilgi-Guvenligi-Politikasi

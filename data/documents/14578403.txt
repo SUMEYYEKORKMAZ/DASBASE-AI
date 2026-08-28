@@ -1,0 +1,10 @@
+GİZLİLİK VE ÖZEL LİSANS SÖZLEŞMESİ (ÇOK GİZLİ)
+Belge No: ARGE-2026/007
+SDP Kodu: 600.02
+Tarih: 20.07.2026
+
+Taraf 1: DASBase Yazılım A.Ş.
+Taraf 2: OpenAI OpCo LLC
+
+Sözleşme Konusu:
+DASBase sistemine entegre edilecek yerel vektör indeksleme algoritmasının 5 yıl süreyle münhasıran lisanslanması. Lisans bedeli yıllık $250,000 USD olup ödemeler iki eşit taksitte yapılacaktır. İşbu sözleşme ihlali durumunda $1,000,000 USD cezai şart uygulanır.

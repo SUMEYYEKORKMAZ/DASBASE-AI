@@ -1,0 +1,14 @@
+{
+  "documentId": "14578398",
+  "documentType": "Karar",
+  "department": "Insan Kaynaklari",
+  "securityLevel": "Kurum Ici",
+  "sdp": "050.01",
+  "allowedRoles": ["IK_Personeli", "Genel_Mudur"],
+  "pages": [
+    {
+      "page": 1,
+      "text": "DASBASE HOLDING A.Ş.\nİNSAN KAYNAKLARI / İDARİ İŞLER\nÇALIŞMA SAATLERİ VE HİBRİT MODEL KARARI\n\nKarar No: IK-KAR-2026-031\nBelge Türü: Karar\nBirim: İnsan Kaynakları\nSDP Kodu: 050.01\nGüvenlik Seviyesi: Kurum İçi\nKarar Tarihi: 10.06.2026\n\n1. KARAR\n2026 yılı ikinci yarıyılından itibaren hibrit çalışma modeli uygulanır.\n\n2. OFİS VE HOME-OFFICE GÜNLERİ\nPazartesi ve Cuma günleri home-office (uzaktan) çalışılır. Salı, Çarşamba ve Perşembe günleri ofiste çalışılır. Bu düzen, önceki \"haftanın her günü ofis\" uygulamasının yerini alır.\n\n3. ÇALIŞMA SAATLERİ\nResmi çalışma saatleri 09:00 - 18:00'dir. Öğle arası 12:00 - 13:00 olarak uygulanır. Core-time (zorunlu çevrimiçi / ofis dilimi) 10:00 - 16:00'dir.\n\n4. KAPSAM\nKarar İstanbul merkez kampüs kadrolu çalışanları kapsar. Saha ve vardiyalı ekipler müdür onayı ile hariç tutulabilir.\n\n5. YETKİ VE SAKLAMA\nBelge IK_Personeli ve Genel_Mudur rollerine açıktır. SDP 050.01, \"Kurum İçi\". DASBase arşiv kaydı 14578398."
+    }
+  ]
+}

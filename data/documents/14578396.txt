@@ -1,0 +1,31 @@
+DASBASE HOLDING A.Ş.
+İNSAN KAYNAKLARI MÜDÜRLÜĞÜ
+İZİN VE DİSİPLİN PROSEDÜRÜ
+
+Prosedür No: IK-PRC-2026-009
+Belge Türü: Prosedür
+Birim: İnsan Kaynakları
+SDP Kodu: 900.01
+Güvenlik Seviyesi: Gizli
+Yürürlük Tarihi: 01.01.2026
+
+GİZLİLİK UYARISI
+Bu metin gizli sicil ve özlük hükümleri içerir. Erişim yalnızca IK_Personeli ve Genel_Mudur rollerine açıktır.
+
+1. YILLIK İZİN SÜRELERİ
+Kıdeme göre yıllık ücretli izin süreleri şöyledir:
+- 1 ila 5 yıl kıdeme sahip çalışanlara 14 gün yıllık izin verilir.
+- 5 yıldan 15 yıla kadar kıdemi olan çalışanlara 20 gün yıllık izin verilir.
+- 15 yıl ve üzeri kıdeme 26 gün yıllık izin verilir.
+
+2. GİZLİ SİCİL VE ÖZLÜK DOSYASI
+Çalışanın T.C. kimlik numarası, ev adresi ve sağlık raporu özlük dosyasında saklanır. Bu kayıtlar disiplin soruşturması dışında üçüncü kişilerle paylaşılmaz. Sağlık raporları ayrı bir gizli sicil zarfında tutulur.
+
+3. DİSİPLİN ESASLARI
+İzinsiz devamsızlık, gizlilik ihlali ve çıkar çatışması fiilleri yazılı uyarı, ücret kesimi veya fesih yaptırımlarına konu olabilir. Disiplin tutanakları SDP 900.01 altında arşivlenir.
+
+4. İK SORUMLUSU
+Prosedür uygulayıcısı İnsan Kaynakları sorumlusu Mehmet Kaya'dır. Mehmet Kaya'nın telefon numarası 0505 111 2233'tür. Özlük talepleri bu kişi üzerinden yürütülür.
+
+5. SAKLAMA
+Belge DASBase kaydı 14578396 numarası ile "Gizli" güvenlik seviyesinde tutulur.
